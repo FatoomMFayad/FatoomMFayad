@@ -6,6 +6,8 @@ I'm a software engineer and IT lecturer with a background in software developmen
 
 My interests include artificial intelligence, software security, and understanding how software is developed, maintained, and reused.
 
+---
+
 ### 🔬 Research Interests
 
 - Artificial Intelligence and Software Engineering
@@ -14,21 +16,39 @@ My interests include artificial intelligence, software security, and understandi
 - Empirical Software Engineering
 - Data Analysis and Software Quality
 
+---
+
 ### 🛠️ Technical Skills
 
-**Programming Languages:** Java, Python, PHP, JavaScript, SQL
+**Programming Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks and Technologies:** Laravel, Vue.js, Node.js
+**Frameworks & Technologies:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Databases:** MySQL, DuckDB
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-**Data Analysis:** pandas, SQL-based data exploration, and dataset analysis
+**Data Analysis:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Exploration-00599C?style=for-the-badge)
+
+---
 
 ### 📚 Research & Publications
 
 My research background includes natural language processing and linking short Arabic texts to relevant Wikipedia articles.
 
 - **Research paper:** [Automatic Linking of Short Arabic Texts to Wikipedia Articles](https://www.jsoftware.us/index.php?m=content&c=index&a=show&catid=175&id=2712)
+
+---
 
 ### 🎯 Current Focus
 
@@ -37,10 +57,14 @@ My research background includes natural language processing and linking short Ar
 - Strengthening my skills in Python, DuckDB, and empirical software engineering.
 - Exploring research questions at the intersection of AI and software engineering.
 
+---
+
 ### 📫 Connect with Me
 
-- **GitHub:** [@FatoomMFayad](https://github.com/FatoomMFayad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatoomMFayad)
+
+---
 
 ### 😄 Fun Fact
 
-I have a serious face and a questionable sense of humor (according to some 😂). I'm also into everything from fashion and politics to geography and travel. Basically, a globetrotter in another life 🌍, with a potential career in comedy if software engineering doesn't work out 😂. 
+I have a serious face and a questionable sense of humor (according to some 😂). I'm also into everything from fashion and politics to geography and travel. Basically, a globetrotter in another life 🌍, with a potential career in comedy if software engineering doesn't work out 😂.

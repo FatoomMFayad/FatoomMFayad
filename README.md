@@ -43,4 +43,4 @@ My research background includes natural language processing and linking short Ar
 
 ### 😄 Fun Fact
 
-I have a serious face and a questionable sense of humor (according to some 😂). I'm also into everything from fashion and politics to geography and travel. Basically, a globetrotter in another life, with a potential career in comedy if software engineering doesn't work out. 🌍
+I have a serious face and a questionable sense of humor (according to some 😂). I'm also into everything from fashion and politics to geography and travel. Basically, a globetrotter in another life 🌍, with a potential career in comedy if software engineering doesn't work out 😂. 

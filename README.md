@@ -60,4 +60,5 @@ My research has explored Arabic language processing, particularly the automatic 
 😄 **Fun Fact**
 
 My friends say I have a pretty unusual sense of humor. In another life, I’d probably be traveling the world. 🌍
+
 🇫🇷 Learning French — turns out, even my toughest coding projects were easier! Je parle un peu français… emphasis on un peu. 😂

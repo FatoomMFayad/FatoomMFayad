@@ -57,7 +57,7 @@ My research has explored Arabic language processing, particularly the automatic 
 - GitHub: [@FatoomMFayad](https://github.com/FatoomMFayad)
 - Linkedin [@Fatoom Fayad](https://www.linkedin.com/in/fatoom-fayad-57255341b/)
 
-## 😄Fun Fact**
+## 😄Fun Fact
 
 My friends say I have a pretty unusual sense of humor. In another life, I’d probably be traveling the world. 🌍
 

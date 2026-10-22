@@ -55,7 +55,7 @@ My research has explored Arabic language processing, particularly the automatic 
 ## 🤝 Connect with Me
 
 - GitHub: [@FatoomMFayad](https://github.com/FatoomMFayad)
-- Linkedin [@Fatoom Fayad](https://www.linkedin.com/in/fatoom-fayad-57255341b/)
+- Linkedin: [@Fatoom Fayad](https://www.linkedin.com/in/fatoom-fayad-57255341b/)
 
 ## 😄Fun Fact
 

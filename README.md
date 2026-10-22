@@ -2,67 +2,61 @@
 
 **Software Engineer | Researcher | IT Lecturer**
 
-I'm a software engineer and IT lecturer with a background in software development, database engineering, and academic research. I enjoy building practical software solutions, exploring new technologies, and investigating research questions related to software engineering.
+I'm a software engineer, researcher, and IT lecturer with a background in software development, database engineering, and academic research. I enjoy building practical software solutions and investigating how software systems are developed, maintained, analyzed, and secured.
 
-My interests include artificial intelligence, software security, and understanding how software is developed, maintained, and reused.
+My interests lie at the intersection of **Artificial Intelligence, Software Engineering, and Software Security**, with a particular focus on understanding software development practices through data and empirical research.
 
----
+## 🔬 Research Interests
 
-### 🔬 Research Interests
-
-- Artificial Intelligence and Software Engineering
-- Software Security and Open-Source Software
+- Artificial Intelligence for Software Engineering
 - Mining Software Repositories (MSR)
 - Empirical Software Engineering
-- Data Analysis and Software Quality
+- Software Security and Open-Source Ecosystems
+- Software Quality and Data-Driven Analysis
 
----
+## 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
+**Programming Languages**
 
-**Programming Languages:**  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 
-**Frameworks & Technologies:**  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+**Frameworks & Technologies**
 
-**Databases:**  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Data Analysis:**  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
----
+**Databases & Data Analysis**
 
-### 📚 Research & Publications
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-My research background includes natural language processing and linking short Arabic texts to relevant Wikipedia articles.
+## 📚 Research & Publications
 
-- **Research paper:** [Automatic Linking of Short Arabic Texts to Wikipedia Articles](https://www.jsoftware.us/index.php?m=content&c=index&a=show&catid=175&id=2712)
+My research has explored Arabic language processing, particularly the automatic linking of short Arabic texts to relevant Wikipedia articles.
 
----
+📄 **Published Research**
 
-### 🎯 Current Focus
+[Automatic Linking of Short Arabic Texts to Wikipedia Articles](https://www.jsoftware.us/index.php?m=content&c=index&a=show&catid=175&id=2712)
 
-- Exploring software engineering research datasets.
-- Investigating how developers create, maintain, and reuse software artifacts.
-- Strengthening my skills in Python, DuckDB, and empirical software engineering.
-- Exploring research questions at the intersection of AI and software engineering.
+## 🎯 Current Focus
 
----
+- Analyzing software engineering datasets using Python and DuckDB.
+- Exploring how developers create, maintain, and reuse software artifacts.
+- Investigating empirical research questions in software engineering.
+- Exploring applications of AI in software analysis and security.
 
-### 📫 Connect with Me
+## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatoomMFayad)
+- GitHub: [@FatoomMFayad](https://github.com/FatoomMFayad)
 
----
+😄 **Fun Fact**
 
-### 😄 Fun Fact
-
-Coding by day, recursive dreaming by night✨
+My friends say I have a pretty unusual sense of humor. In another life, I’d probably be traveling the world. 🌍
+🇫🇷 Learning French — turns out, even my toughest coding projects were easier! Je parle un peu français… emphasis on un peu. 😂
